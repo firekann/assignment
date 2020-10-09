@@ -1,0 +1,17 @@
+﻿  term_project.c
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(45): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int [19][19]'과(와) 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(45): warning C4024: 'getkey_input_sel': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(85): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int [19][19]'과(와) 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(85): warning C4024: 'getkey_input_sel': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(106): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int [19][19]'과(와) 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(106): warning C4024: 'getkey_input_sel': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(109): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int [19][19]'과(와) 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(109): warning C4024: 'draw_board': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(142): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int [19][19]'과(와) 다릅니다.
+c:\users\leeho\onedrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\term_project\term_project.c(142): warning C4024: 'getkey_input_sel': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+  코드를 생성하고 있습니다.
+  0 of 22 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  term_project.vcxproj -> C:\Users\leeho\OneDrive\문서\대학 강의\2020년 1학기\창의적설계\term_project\term_project\Release\term_project.exe
